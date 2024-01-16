@@ -1,0 +1,88 @@
+[31-Oct-2023 17:20:37 Asia/Ho_Chi_Minh] PHP Fatal error:  Call to a member function fetch_array() on boolean in /home/topctdnqt5l/public_html/admin/ajaxs/domain.php on line 22
+[31-Oct-2023 17:21:13 Asia/Ho_Chi_Minh] PHP Fatal error:  Call to a member function fetch_array() on boolean in /home/topctdnqt5l/public_html/admin/ajaxs/domain.php on line 22
+[31-Oct-2023 17:23:21 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: name in /home/topctdnqt5l/public_html/admin/ajaxs/users.php on line 19
+[31-Oct-2023 17:25:03 Asia/Ho_Chi_Minh] PHP Fatal error:  Call to a member function fetch_array() on boolean in /home/topctdnqt5l/public_html/admin/ajaxs/domain.php on line 22
+[31-Oct-2023 17:35:33 Asia/Ho_Chi_Minh] PHP Fatal error:  Call to a member function fetch_array() on boolean in /home/topctdnqt5l/public_html/admin/ajaxs/domain.php on line 22
+[31-Oct-2023 17:35:35 Asia/Ho_Chi_Minh] PHP Fatal error:  Call to a member function fetch_array() on boolean in /home/topctdnqt5l/public_html/admin/ajaxs/domain.php on line 22
+[02-Nov-2023 14:43:38 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: id in /home/topctdnqt5l/public_html/admin/ajaxs/thietkeweb.php on line 30
+[02-Nov-2023 14:43:40 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: id in /home/topctdnqt5l/public_html/admin/ajaxs/thietkeweb.php on line 30
+[02-Nov-2023 14:43:41 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: id in /home/topctdnqt5l/public_html/admin/ajaxs/thietkeweb.php on line 30
+[02-Nov-2023 14:44:26 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: id in /home/topctdnqt5l/public_html/admin/ajaxs/thietkeweb.php on line 30
+[04-Nov-2023 08:16:37 Asia/Ho_Chi_Minh] PHP Warning:  Missing argument 2 for StatusShop(), called in /home/topctdnqt5l/public_html/admin/ajaxs/thietkeweb.php on line 33 and defined in /home/topctdnqt5l/public_html/system/config.php on line 155
+[04-Nov-2023 08:16:48 Asia/Ho_Chi_Minh] PHP Warning:  Missing argument 2 for StatusShop(), called in /home/topctdnqt5l/public_html/admin/ajaxs/thietkeweb.php on line 33 and defined in /home/topctdnqt5l/public_html/system/config.php on line 155
+[04-Nov-2023 08:17:10 Asia/Ho_Chi_Minh] PHP Warning:  Missing argument 2 for StatusShop(), called in /home/topctdnqt5l/public_html/admin/ajaxs/thietkeweb.php on line 33 and defined in /home/topctdnqt5l/public_html/system/config.php on line 155
+[04-Nov-2023 08:17:12 Asia/Ho_Chi_Minh] PHP Warning:  Missing argument 2 for StatusShop(), called in /home/topctdnqt5l/public_html/admin/ajaxs/thietkeweb.php on line 33 and defined in /home/topctdnqt5l/public_html/system/config.php on line 155
+[04-Nov-2023 08:19:43 Asia/Ho_Chi_Minh] PHP Warning:  Missing argument 2 for StatusShop(), called in /home/topctdnqt5l/public_html/admin/ajaxs/thietkeweb.php on line 33 and defined in /home/topctdnqt5l/public_html/system/config.php on line 155
+[04-Nov-2023 08:19:57 Asia/Ho_Chi_Minh] PHP Warning:  Missing argument 2 for StatusShop(), called in /home/topctdnqt5l/public_html/admin/ajaxs/thietkeweb.php on line 33 and defined in /home/topctdnqt5l/public_html/system/config.php on line 155
+[04-Nov-2023 08:20:08 Asia/Ho_Chi_Minh] PHP Warning:  Missing argument 2 for StatusShop(), called in /home/topctdnqt5l/public_html/admin/ajaxs/thietkeweb.php on line 33 and defined in /home/topctdnqt5l/public_html/system/config.php on line 155
+[04-Nov-2023 08:20:10 Asia/Ho_Chi_Minh] PHP Warning:  Missing argument 2 for StatusShop(), called in /home/topctdnqt5l/public_html/admin/ajaxs/thietkeweb.php on line 33 and defined in /home/topctdnqt5l/public_html/system/config.php on line 155
+[04-Nov-2023 08:20:43 Asia/Ho_Chi_Minh] PHP Warning:  Missing argument 2 for StatusShop(), called in /home/topctdnqt5l/public_html/admin/ajaxs/thietkeweb.php on line 33 and defined in /home/topctdnqt5l/public_html/system/config.php on line 155
+[04-Nov-2023 08:20:44 Asia/Ho_Chi_Minh] PHP Warning:  Missing argument 2 for StatusShop(), called in /home/topctdnqt5l/public_html/admin/ajaxs/thietkeweb.php on line 33 and defined in /home/topctdnqt5l/public_html/system/config.php on line 155
+[04-Nov-2023 08:20:50 Asia/Ho_Chi_Minh] PHP Warning:  Missing argument 2 for StatusShop(), called in /home/topctdnqt5l/public_html/admin/ajaxs/thietkeweb.php on line 33 and defined in /home/topctdnqt5l/public_html/system/config.php on line 155
+[04-Nov-2023 08:20:54 Asia/Ho_Chi_Minh] PHP Warning:  Missing argument 2 for StatusShop(), called in /home/topctdnqt5l/public_html/admin/ajaxs/thietkeweb.php on line 33 and defined in /home/topctdnqt5l/public_html/system/config.php on line 155
+[04-Nov-2023 08:20:57 Asia/Ho_Chi_Minh] PHP Warning:  Missing argument 2 for StatusShop(), called in /home/topctdnqt5l/public_html/admin/ajaxs/thietkeweb.php on line 33 and defined in /home/topctdnqt5l/public_html/system/config.php on line 155
+[04-Nov-2023 08:21:20 Asia/Ho_Chi_Minh] PHP Warning:  Missing argument 2 for StatusShop(), called in /home/topctdnqt5l/public_html/admin/ajaxs/thietkeweb.php on line 33 and defined in /home/topctdnqt5l/public_html/system/config.php on line 155
+[04-Nov-2023 08:21:37 Asia/Ho_Chi_Minh] PHP Warning:  Missing argument 2 for StatusShop(), called in /home/topctdnqt5l/public_html/admin/ajaxs/thietkeweb.php on line 33 and defined in /home/topctdnqt5l/public_html/system/config.php on line 155
+[04-Nov-2023 08:22:09 Asia/Ho_Chi_Minh] PHP Warning:  Missing argument 2 for StatusShop(), called in /home/topctdnqt5l/public_html/admin/ajaxs/thietkeweb.php on line 33 and defined in /home/topctdnqt5l/public_html/system/config.php on line 155
+[04-Nov-2023 08:22:18 Asia/Ho_Chi_Minh] PHP Warning:  Missing argument 2 for StatusShop(), called in /home/topctdnqt5l/public_html/admin/ajaxs/thietkeweb.php on line 33 and defined in /home/topctdnqt5l/public_html/system/config.php on line 155
+[04-Nov-2023 08:40:48 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: note in /home/topctdnqt5l/public_html/admin/ajaxs/thietkeweb.php on line 44
+[04-Nov-2023 08:40:53 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: note in /home/topctdnqt5l/public_html/admin/ajaxs/thietkeweb.php on line 44
+[04-Nov-2023 08:40:58 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: note in /home/topctdnqt5l/public_html/admin/ajaxs/thietkeweb.php on line 44
+[04-Nov-2023 08:41:02 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: note in /home/topctdnqt5l/public_html/admin/ajaxs/thietkeweb.php on line 44
+[04-Nov-2023 08:41:07 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: note in /home/topctdnqt5l/public_html/admin/ajaxs/thietkeweb.php on line 44
+[04-Nov-2023 10:53:13 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: id in /home/topctdnqt5l/public_html/admin/ajaxs/logo.php on line 30
+[04-Nov-2023 10:53:24 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: id in /home/topctdnqt5l/public_html/admin/ajaxs/logo.php on line 30
+[04-Nov-2023 11:24:31 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: id in /home/topctdnqt5l/public_html/admin/ajaxs/logo.php on line 14
+[04-Nov-2023 11:24:31 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: id in /home/topctdnqt5l/public_html/admin/ajaxs/logo.php on line 16
+[04-Nov-2023 11:25:31 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: id in /home/topctdnqt5l/public_html/admin/ajaxs/logo.php on line 14
+[04-Nov-2023 11:25:31 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: id in /home/topctdnqt5l/public_html/admin/ajaxs/logo.php on line 16
+[04-Nov-2023 11:25:54 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: id in /home/topctdnqt5l/public_html/admin/ajaxs/logo.php on line 14
+[04-Nov-2023 11:25:54 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: id in /home/topctdnqt5l/public_html/admin/ajaxs/logo.php on line 16
+[04-Nov-2023 11:26:00 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: id in /home/topctdnqt5l/public_html/admin/ajaxs/logo.php on line 14
+[04-Nov-2023 11:26:00 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: id in /home/topctdnqt5l/public_html/admin/ajaxs/logo.php on line 16
+[04-Nov-2023 11:26:25 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: id in /home/topctdnqt5l/public_html/admin/ajaxs/logo.php on line 14
+[04-Nov-2023 11:26:25 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: id in /home/topctdnqt5l/public_html/admin/ajaxs/logo.php on line 16
+[05-Nov-2023 11:34:18 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: name in /home/topctdnqt5l/public_html/admin/ajaxs/users.php on line 28
+[05-Nov-2023 11:34:25 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: name in /home/topctdnqt5l/public_html/admin/ajaxs/users.php on line 19
+[05-Nov-2023 11:43:48 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: support_url in /home/topctdnqt5l/public_html/admin/ajaxs/system.php on line 46
+[05-Nov-2023 11:43:57 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: support_url in /home/topctdnqt5l/public_html/admin/ajaxs/system.php on line 46
+[05-Nov-2023 11:44:03 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: support_url in /home/topctdnqt5l/public_html/admin/ajaxs/system.php on line 46
+[05-Nov-2023 11:44:09 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: support_url in /home/topctdnqt5l/public_html/admin/ajaxs/system.php on line 46
+[05-Nov-2023 11:44:10 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: support_url in /home/topctdnqt5l/public_html/admin/ajaxs/system.php on line 46
+[05-Nov-2023 11:44:12 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: support_url in /home/topctdnqt5l/public_html/admin/ajaxs/system.php on line 46
+[05-Nov-2023 21:03:01 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: support_url in /home/topctdnqt5l/public_html/admin/ajaxs/system.php on line 46
+[05-Nov-2023 21:03:06 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: support_url in /home/topctdnqt5l/public_html/admin/ajaxs/system.php on line 46
+[05-Nov-2023 21:03:10 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: support_url in /home/topctdnqt5l/public_html/admin/ajaxs/system.php on line 46
+[05-Nov-2023 21:26:00 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: name in /home/topctdnqt5l/public_html/admin/ajaxs/users.php on line 19
+[06-Nov-2023 11:57:07 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: name in /home/topctdnqt5l/public_html/admin/ajaxs/users.php on line 19
+[07-Nov-2023 09:24:26 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: name in /home/topctdnqt5l/public_html/admin/ajaxs/users.php on line 19
+[09-Nov-2023 17:53:17 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: name in /home/topctdnqt5l/public_html/admin/ajaxs/users.php on line 19
+[11-Nov-2023 11:11:38 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: name in /home/topc5io3j0i/taminhphat.com/admin/ajaxs/users.php on line 19
+[11-Nov-2023 20:21:10 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: name in /home/topc5io3j0i/taminhphat.com/admin/ajaxs/users.php on line 19
+[12-Nov-2023 08:53:10 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: name in /home/topc5io3j0i/taminhphat.com/admin/ajaxs/users.php on line 19
+[12-Nov-2023 09:02:01 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: name in /home/topc5io3j0i/taminhphat.com/admin/ajaxs/users.php on line 19
+[12-Nov-2023 09:02:28 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: name in /home/topc5io3j0i/taminhphat.com/admin/ajaxs/users.php on line 28
+[12-Nov-2023 19:09:57 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: name in /home/topc5io3j0i/taminhphat.com/admin/ajaxs/users.php on line 19
+[12-Nov-2023 20:29:28 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: name in /home/topc5io3j0i/taminhphat.com/admin/ajaxs/users.php on line 19
+[13-Nov-2023 16:36:45 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: name in /home/topc5io3j0i/taminhphat.com/admin/ajaxs/users.php on line 19
+[13-Nov-2023 19:23:38 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: name in /home/topc5io3j0i/taminhphat.com/admin/ajaxs/users.php on line 7
+[13-Nov-2023 19:23:40 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: name in /home/topc5io3j0i/taminhphat.com/admin/ajaxs/users.php on line 7
+[13-Nov-2023 19:23:44 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: name in /home/topc5io3j0i/taminhphat.com/admin/ajaxs/users.php on line 7
+[13-Nov-2023 19:23:48 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: name in /home/topc5io3j0i/taminhphat.com/admin/ajaxs/users.php on line 7
+[13-Nov-2023 19:25:50 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: name in /home/topc5io3j0i/taminhphat.com/admin/ajaxs/users.php on line 7
+[13-Nov-2023 19:25:53 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: name in /home/topc5io3j0i/taminhphat.com/admin/ajaxs/users.php on line 7
+[13-Nov-2023 21:36:13 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: name in /home/topc5io3j0i/taminhphat.com/admin/ajaxs/users.php on line 7
+[14-Nov-2023 21:19:24 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: name in /home/topc5io3j0i/taminhphat.com/admin/ajaxs/users.php on line 7
+[14-Nov-2023 21:19:26 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: name in /home/topc5io3j0i/taminhphat.com/admin/ajaxs/users.php on line 7
+[14-Nov-2023 21:23:59 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: name in /home/topc5io3j0i/taminhphat.com/admin/ajaxs/users.php on line 7
+[14-Nov-2023 21:24:02 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: name in /home/topc5io3j0i/taminhphat.com/admin/ajaxs/users.php on line 7
+[14-Nov-2023 21:24:04 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: name in /home/topc5io3j0i/taminhphat.com/admin/ajaxs/users.php on line 7
+[14-Nov-2023 21:24:07 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: name in /home/topc5io3j0i/taminhphat.com/admin/ajaxs/users.php on line 7
+[14-Nov-2023 21:24:26 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: name in /home/topc5io3j0i/taminhphat.com/admin/ajaxs/users.php on line 7
+[14-Nov-2023 21:24:28 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: name in /home/topc5io3j0i/taminhphat.com/admin/ajaxs/users.php on line 7
+[14-Nov-2023 21:24:32 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: name in /home/topc5io3j0i/taminhphat.com/admin/ajaxs/users.php on line 7
+[14-Nov-2023 21:25:19 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: name in /home/topc5io3j0i/taminhphat.com/admin/ajaxs/users.php on line 7
+[14-Nov-2023 21:25:21 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: name in /home/topc5io3j0i/taminhphat.com/admin/ajaxs/users.php on line 7
+[14-Nov-2023 21:25:32 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: name in /home/topc5io3j0i/taminhphat.com/admin/ajaxs/users.php on line 7
+[14-Nov-2023 21:25:48 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: name in /home/topc5io3j0i/taminhphat.com/admin/ajaxs/users.php on line 7
+[14-Nov-2023 21:25:49 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: name in /home/topc5io3j0i/taminhphat.com/admin/ajaxs/users.php on line 7
